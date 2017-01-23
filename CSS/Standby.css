@@ -1,0 +1,59 @@
+
+@font-face {
+    font-family: "ubuntu";
+    src: url(../FONT/Ubuntu-L.ttf);
+}
+
+#auriel h1 {
+  color : white;
+  text-shadow: 0 5px #0455B6;
+  margin-top: 200px;
+  font-family: ubuntu;
+}
+
+#auriel .italic {
+  font-style: italic;
+}
+
+#form {
+  margin-top: 100px;
+}
+
+#form label {
+  font-size: 30px;
+}
+
+#form2 {
+  margin-top: 50px;
+}
+
+#form2 label {
+  font-size: 30px;
+}
+
+#btnmodal{
+  margin-left: 20%;
+}
+input, label {
+color:purple!important;
+}
+
+.btn {
+  background-color: purple!important;
+}
+
+li h4 a {
+  color: purple!important;
+}
+
+#btn2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#resultform{
+  font-family: ubuntu;
+  font-size: 20px;
+  color: purple;
+  text-shadow: 0 2px white;
+}
